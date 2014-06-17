@@ -7,4 +7,7 @@ npm install -g git+https://github.com/Grassmere467/istanbul.git
 
 echo "After Install"
 
+istanbul
+
+
 autodeploy http://github.glgroup.com/InfrastructureDeliveryTeam/cmac.git#realdata
